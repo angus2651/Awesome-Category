@@ -11,6 +11,7 @@ Copy files to your Project
 
 Step 2: For Example: HexString is #F6F6F6
 
+```objective-c
 #import "UIColor+Hexadecimal.h"
 
 ...
