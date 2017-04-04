@@ -7,7 +7,7 @@ Find Useful Categories.
 
 Step 1:
 
-Copy files to your Project
+Copy UIColor+Hexadecimal.h and UIColor+Hexadecimal.m to your Project
 
 Step 2: For Example: HexString is #F6F6F6
 
